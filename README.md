@@ -1,1 +1,1 @@
-# SearchEngine
+A simple search engine
